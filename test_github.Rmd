@@ -1,5 +1,5 @@
 ---
-title: "ESM 206/244 GitHub Testing"
+title: "ESM 206/244 GitHub Testing by Mariano"
 output: html_document
 ---
 
@@ -13,9 +13,9 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+blue <- 12
 
-red <- 15
+red <- 17
 
 purple <- blue/red
 
